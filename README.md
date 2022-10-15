@@ -90,4 +90,6 @@ _For example, I will configurate the .env file like this for PostgreSQL database
     npm start
    ```
 
+7. Test the connection to the database by going to the link (YOURHOST:PORT/db-connect)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
