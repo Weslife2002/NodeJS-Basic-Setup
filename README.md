@@ -65,10 +65,10 @@ _For example, I will configurate the .env file like this for PostgreSQL database
     ENV = DEVELOPMENT
 
     PGUSER = postgres
-    PGPASSWORD = localhost
-    PGDATABASE = yourpassword
-    PGPORT = nodedemo
-    PORT = 5432
+    PGHOST = localhost
+    PGPASSWORD = yourpassword
+    PGDATABASE = nodedemo
+    PGPORT = 5432
    ```
 
 3. Install all the dependency.
